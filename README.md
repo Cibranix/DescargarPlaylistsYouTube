@@ -8,4 +8,4 @@ How to use it:
 3. Run the desired cell, the one for mp3 or the other for mp4.
 4. Download the created zip and unzip in the desired folder of your pc or smartphone.
 
-Although there are already plenty of alternatives that work very well, I am planning to improve it by creating an API and a mobile application to make this system more efficient.
+Although there are already plenty of alternatives that work very well, I am planning to improve this project by creating an API and a mobile application to make this system more efficient.
